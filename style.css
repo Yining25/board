@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+}
+#ncyu{
+  position: absolute;
+  border: solid 5px gold;
+  top:  10px;
+  left: 700px;
+  width:100ps;
+  height: auto;
+}
+#ico{
+  width:300px;
+}
